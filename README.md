@@ -12,6 +12,5 @@ In order to run the application, users must open their terminal and download the
 
 # Usage
 
-
-https://user-images.githubusercontent.com/117767518/210675867-d564db31-55df-4f60-afec-3d743efb10b3.mp4
+https://user-images.githubusercontent.com/117767518/210676319-b7e32ff8-3f23-4c5a-ae13-2331b3d5eb2e.mp4
 
