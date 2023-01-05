@@ -11,3 +11,7 @@ Once information is inputted by the user, an HTML webpage will generate and disp
 In order to run the application, users must open their terminal and download the inquirer 8.2.4 version. Once installed, users can run the program using 'node index' and be presented with questions concerning the employee they are adding.
 
 # Usage
+
+
+https://user-images.githubusercontent.com/117767518/210675867-d564db31-55df-4f60-afec-3d743efb10b3.mp4
+
