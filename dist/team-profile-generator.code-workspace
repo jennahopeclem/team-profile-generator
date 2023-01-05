@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "team-profile-generator",
+			"path": ".."
+		},
+		{
+			"name": "__tests__",
+			"path": "../../../Bootcamp/RUT-VIRT-FSF-FT-11-2022-U-LOLC/10-OOP/02-Challenge/Pseudo-Code/__tests__"
+		},
+		{
+			"name": "Pseudo-Code",
+			"path": "../../../Bootcamp/RUT-VIRT-FSF-FT-11-2022-U-LOLC/10-OOP/02-Challenge/Pseudo-Code"
+		}
+	],
+	"settings": {}
+}
